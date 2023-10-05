@@ -1,0 +1,47 @@
+{
+   "user_id": "25zjgcw0cb",
+   "install_time": [
+      "2022-12-14T15:00:00",
+      "2022-12-16T16:00:00"
+   ],
+   "test_time": [
+      "2022-12-14T15:30:00",
+      "2022-12-15T15:30:00"
+   ],
+   "report_time": "2022-12-14",
+   "model": "G980F",
+   "binary": [
+      "https://android.qb.sec.samsung.net/build/58747066",
+      "G980FXXUFGVJK"
+   ],
+   "market": {
+      "service_id": "STGMOMOBCDC42C0F68284789B34DE31C8B89B4C3",
+      "client": [
+         "3.2.36.0",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2350307742&page=view&type=LIST"
+      ],
+      "wakeup": [
+         "2.1.44.2",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2346478601&page=view&type=LIST"
+      ],
+      "dictation": [
+         "3.0.11.5",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2288617403&page=view&type=LIST"
+      ]
+   },
+   "sqe": {
+      "service_id": "STGMOMOBAB35A034FB884E5D9B122920782603AF",
+      "client": [
+         "3.2.45.16",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2447420036&page=view&type=LIST"
+      ],
+      "wakeup": [
+         "2.1.45.16",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2447387623&page=view&type=LIST"
+      ],
+      "dictation": [
+         "3.0.12.5",
+         "https://mosaic.sec.samsung.net/kms/comty.do?comtyId=3978905&menuId=6880216&postId=2437954020&page=view&type=LIST"
+      ]
+   }
+}
